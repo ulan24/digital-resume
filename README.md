@@ -1,1 +1,3 @@
-# digital-resume
+# Digitalized Resume -> Django, JS. 
+
+This project is in process for improvement......
