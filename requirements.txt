@@ -1,0 +1,6 @@
+asgiref==3.7.2
+Django==5.0.1
+django-ckeditor==6.7.0
+django-js-asset==2.2.0
+Pillow==9.2.0
+virtualenvwrapper==6.1.0
